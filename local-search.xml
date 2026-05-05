@@ -4,13 +4,64 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2026/04/25/hello-world/"/>
-    <url>/2026/04/25/hello-world/</url>
+    <title>Hexo博客基础知识</title>
+    <link href="/2026/04/26/%E6%8A%80%E6%9C%AF/Hexo%E5%8D%9A%E5%AE%A2%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    <url>/2026/04/26/%E6%8A%80%E6%9C%AF/Hexo%E5%8D%9A%E5%AE%A2%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Hexo常用命令："><a href="#Hexo常用命令：" class="headerlink" title="Hexo常用命令："></a>Hexo常用命令：</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo clean<br>hexo generate<br>hexo server<br>hexo deploy<br></code></pre></td></tr></table></figure><h2 id="Markdown常用格式："><a href="#Markdown常用格式：" class="headerlink" title="Markdown常用格式："></a>Markdown常用格式：</h2><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><code class="hljs markdown"><span class="hljs-section"># 一级标题</span><br><span class="hljs-strong">**加粗**</span><br><span class="hljs-emphasis">*斜体*</span><br>~~删除线~~<br><span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">u</span>&gt;</span></span>下划线<span class="language-xml"><span class="hljs-tag">&lt;/<span class="hljs-name">u</span>&gt;</span></span><br>==高亮==<br><span class="hljs-code">`代码`</span><br><span class="hljs-quote">&gt; 引用</span><br><span class="hljs-bullet">1.</span> 有序列表<br><span class="hljs-bullet">-</span> 无序列表<br><span class="hljs-code">```代码块```</span><br>$$公式块$$<br>![<span class="hljs-string">图片大小</span>](<span class="hljs-link">图片路径</span>)<br></code></pre></td></tr></table></figure>]]></content>
     
     
+    <categories>
+      
+      <category>技术</category>
+      
+      <category>建站笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>Markdown</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hexo博客搭建全流程</title>
+    <link href="/2026/04/25/%E6%8A%80%E6%9C%AF/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A8%E6%B5%81%E7%A8%8B/"/>
+    <url>/2026/04/25/%E6%8A%80%E6%9C%AF/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A8%E6%B5%81%E7%A8%8B/</url>
+    
+    <content type="html"><![CDATA[<h2 id="一、前置准备"><a href="#一、前置准备" class="headerlink" title="一、前置准备"></a>一、前置准备</h2><ol><li><code>git</code> 管理工具（<a href="https://git-scm.com/">下载官网</a>）；</li><li><code>node.js</code>（<a href="https://nodejs.org/en">下载地址</a>），需要<code>npm</code>（[可以换源](npm config set registry <a href="https://registry.npmmirror.com))工具去下载hexo;/">https://registry.npmmirror.com)）工具去下载Hexo；</a></li><li><code>github</code> 账号（<a href="https://github.com/">官网地址</a>）；</li><li><code>Hexo CLI</code>工具：<code>npm install -g hexo-cli</code></li></ol><h2 id="二、GitHub连接"><a href="#二、GitHub连接" class="headerlink" title="二、GitHub连接"></a>二、GitHub连接</h2><ol><li>第一步设置Git账户：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">git config --global user.name &lt;你的用户名&gt;  <br>git config --global user.email &lt;你的邮箱&gt;<br>git config -l <span class="hljs-comment">#查看是否配置成功</span><br></code></pre></td></tr></table></figure><ol start="2"><li>第二步生成ssh密钥：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">ssh-keygen -t rsa -C &lt;你的邮箱&gt; <span class="hljs-comment">#看到要输入什么可以直接回车！</span><br></code></pre></td></tr></table></figure><ol start="3"><li>第二步使用ssh连接：<br>打开文件<code>C:\Users\Administrator\.ssh\id_rsa.pub</code>，复制全部内容到GitHub上的<code>Setting--&gt;SSH and GPG keys</code>中，然后等待邮箱验证即可。</li><li>完成后测试连接：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">ssh -T git@github.com <br></code></pre></td></tr></table></figure><h2 id="三、Hexo启动"><a href="#三、Hexo启动" class="headerlink" title="三、Hexo启动"></a>三、Hexo启动</h2><ol><li>初始化项目：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo init Blogs <span class="hljs-comment">#Blogs可以是其他项目名</span><br><span class="hljs-built_in">cd</span> Blogs  <br>npm install<br></code></pre></td></tr></table></figure><ol start="2"><li>启动项目：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo generate<br>hexo server<br></code></pre></td></tr></table></figure><ol start="3"><li>预览项目：</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs url">http://localhost:4000/<br></code></pre></td></tr></table></figure><ol start="4"><li>项目基础结构介绍：<ul><li><code>_config.yml</code>：Hexo 全局配置文件</li><li><code>source/_posts/</code>：文章存放目录</li><li><code>themes/</code>：主题目录</li><li><code>public/</code>：生成后的静态文件目录</li><li><code>scaffolds/</code>：文章模板目录<br>其中你最常接触的通常是：</li><li>写文章：<code>source/_posts/</code></li><li>改站点信息：<code>_config.yml</code></li><li>改主题样式：<code>themes/</code></li></ul></li></ol><h2 id="四、主题安装"><a href="#四、主题安装" class="headerlink" title="四、主题安装"></a>四、主题安装</h2><ol><li>主题选择与安装：<ul><li><a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly主题</a></li><li><a href="https://github.com/fluid-dev/hexo-theme-fluid">Fluid主题</a></li></ul></li><li>安装<code>pug</code> 和 <code>stylus</code> 渲染器（好像不是必须的）:</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install hexo-renderer-pug hexo-renderer-stylus --save<br></code></pre></td></tr></table></figure><ol start="3"><li>切换主题，打开<code>_config.yml</code>，找到并修改：</li></ol><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">theme:</span> <span class="hljs-string">butterfly</span><br></code></pre></td></tr></table></figure><ol start="4"><li>复制<code>themes\butterfly\_config.yml</code>到根目录命名为<code>_config.butterfly.yml</code>；</li><li><code>hexo s</code>启动看看：</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs url">http://localhost:4000/<br></code></pre></td></tr></table></figure><h2 id="五、Github部署"><a href="#五、Github部署" class="headerlink" title="五、Github部署"></a>五、Github部署</h2><ol><li>创建新仓库，<strong>命名必须</strong>为<code>username.github.io</code>；</li><li>在<code>myblogs</code>目录下找到 <code>_config.yml</code> 文件，修改如下：</li></ol><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">deploy:</span><br>  <span class="hljs-attr">type:</span> <span class="hljs-string">git</span><br>  <span class="hljs-attr">repo:</span> <span class="hljs-string">git@github.com:LucyEcho/LucyEcho.github.io.git</span><br>  <span class="hljs-attr">branch:</span> <span class="hljs-string">main</span><br></code></pre></td></tr></table></figure><ol start="3"><li>安装部署插件：<code>npm install hexo-deployer-git --save</code></li><li>运行下列命令完成部署：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 清理 Hexo 缓存</span><br>hexo clean<br><span class="hljs-comment"># 重新生成静态文件</span><br>hexo generate<br>hexo deploy<br></code></pre></td></tr></table></figure><ol start="5"><li>访问<code>https://LucyEcho.github.io</code>看看成果；</li><li>修改域名：<code>LucyEcho.github.io--&gt;Setting--&gt;pages</code>；</li></ol><h2 id="六、PicGO图床系统"><a href="#六、PicGO图床系统" class="headerlink" title="六、PicGO图床系统"></a>六、PicGO图床系统</h2><ol><li>PicGo下载：<a href="https://mirrors.sdu.edu.cn/github-release/1773122425/github-release/Molunerfinn_PicGo/">山东大学的镜像网站</a>；</li><li>连接GitHub：要新建一个仓库（用来存博客图片），最好是<strong>公开</strong>的；再到<code>Setting--&gt;Developer setting--&gt;Tokers(classic)</code>生成一个令牌；</li><li>PicGo配置：</li></ol><figure class="highlight txt"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs txt">设定仓库名：Github用户名/仓库名(LucyEcho/BlogPicture)<br>设定分支名：Github分支(main)<br>设定Token：刚刚在GitHub生成的<br>设定存储路径：img/(index/)<br>设置自定义域名：https://cdn.jsdelivr.net/gh/Github账户名/仓库名@分支名(https://cdn.jsdelivr.net/gh/lucyecho/BlogPicture@main/)<br></code></pre></td></tr></table></figure><ol start="4"><li>对了，PicGo的<strong>时间戳重命名</strong>功能还不错，可以打开；</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+      <category>建站笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>Fluid</tag>
+      
+      <tag>PicGO</tag>
+      
+      <tag>Github</tag>
+      
+      <tag>Nodejs</tag>
+      
+    </tags>
     
   </entry>
   
