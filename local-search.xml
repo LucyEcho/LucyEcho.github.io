@@ -4,16 +4,130 @@
   
   
   <entry>
-    <title>Hexo博客基础知识</title>
-    <link href="/2026/04/26/%E6%8A%80%E6%9C%AF/Hexo%E5%8D%9A%E5%AE%A2%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
-    <url>/2026/04/26/%E6%8A%80%E6%9C%AF/Hexo%E5%8D%9A%E5%AE%A2%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
+    <title>烹饪手记</title>
+    <link href="/2026/05/05/%E6%88%91%E7%9A%84%E6%A8%A1%E6%9D%BF/%E7%83%B9%E9%A5%AA%E6%89%8B%E8%AE%B0/"/>
+    <url>/2026/05/05/%E6%88%91%E7%9A%84%E6%A8%A1%E6%9D%BF/%E7%83%B9%E9%A5%AA%E6%89%8B%E8%AE%B0/</url>
     
-    <content type="html"><![CDATA[<h2 id="Hexo常用命令："><a href="#Hexo常用命令：" class="headerlink" title="Hexo常用命令："></a>Hexo常用命令：</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo clean<br>hexo generate<br>hexo server<br>hexo deploy<br></code></pre></td></tr></table></figure><h2 id="Markdown常用格式："><a href="#Markdown常用格式：" class="headerlink" title="Markdown常用格式："></a>Markdown常用格式：</h2><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><code class="hljs markdown"><span class="hljs-section"># 一级标题</span><br><span class="hljs-strong">**加粗**</span><br><span class="hljs-emphasis">*斜体*</span><br>~~删除线~~<br><span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">u</span>&gt;</span></span>下划线<span class="language-xml"><span class="hljs-tag">&lt;/<span class="hljs-name">u</span>&gt;</span></span><br>==高亮==<br><span class="hljs-code">`代码`</span><br><span class="hljs-quote">&gt; 引用</span><br><span class="hljs-bullet">1.</span> 有序列表<br><span class="hljs-bullet">-</span> 无序列表<br><span class="hljs-code">```代码块```</span><br>$$公式块$$<br>![<span class="hljs-string">图片大小</span>](<span class="hljs-link">图片路径</span>)<br></code></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<hr><h3 id="🛒-食材清单"><a href="#🛒-食材清单" class="headerlink" title="🛒 食材清单"></a>🛒 食材清单</h3><p><strong>主料</strong>：</p><p><strong>辅料</strong>：</p><hr><h3 id="🔪-食材处理"><a href="#🔪-食材处理" class="headerlink" title="🔪 食材处理"></a>🔪 食材处理</h3><hr><h3 id="🔥-烹饪步骤"><a href="#🔥-烹饪步骤" class="headerlink" title="🔥 烹饪步骤"></a>🔥 烹饪步骤</h3><p>1.<br>2.<br>3. </p><hr><h3 id="⚠️-翻车-注意点（这次踩的坑）"><a href="#⚠️-翻车-注意点（这次踩的坑）" class="headerlink" title="⚠️ 翻车&#x2F;注意点（这次踩的坑）"></a>⚠️ 翻车&#x2F;注意点（这次踩的坑）</h3><ul><li>❌ 问题：_______________</li><li>🔧 原因分析：_______________</li><li>✅ 下次改进：_______________</li></ul>]]></content>
     
     
     <categories>
       
-      <category>技术</category>
+      <category>美好生活</category>
+      
+      <category>人间食事</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>家常菜</tag>
+      
+      <tag>湖南菜</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>玉米排骨汤</title>
+    <link href="/2026/05/05/%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB/%E4%BA%BA%E9%97%B4%E9%A3%9F%E4%BA%8B/%E7%8E%89%E7%B1%B3%E6%8E%92%E9%AA%A8%E6%B1%A4/"/>
+    <url>/2026/05/05/%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB/%E4%BA%BA%E9%97%B4%E9%A3%9F%E4%BA%8B/%E7%8E%89%E7%B1%B3%E6%8E%92%E9%AA%A8%E6%B1%A4/</url>
+    
+    <content type="html"><![CDATA[<hr><h3 id="🛒-食材清单"><a href="#🛒-食材清单" class="headerlink" title="🛒 食材清单"></a>🛒 食材清单</h3><p><strong>主料</strong>：排骨，玉米，红萝卜</p><p><strong>辅料</strong>：姜</p><hr><h3 id="🔪-食材处理"><a href="#🔪-食材处理" class="headerlink" title="🔪 食材处理"></a>🔪 食材处理</h3><ul><li>全部剁成小块；</li><li>排骨冷水下锅，去除浮沫，呈出用清水清洗；</li></ul><hr><h3 id="🔥-烹饪步骤"><a href="#🔥-烹饪步骤" class="headerlink" title="🔥 烹饪步骤"></a>🔥 烹饪步骤</h3><ol><li>大火煸炒，加入聪姜爆香一分钟后，加入适量清水，然后加入玉米、红萝卜等食材；</li><li>大火烧开，去除浮沫，加上几滴白醋；</li><li>小火炖40分钟或高压锅15分钟；</li><li>调味：盐、胡椒粉；</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>美好生活</category>
+      
+      <category>人间食事</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>家常菜</tag>
+      
+      <tag>湖南菜</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>辣椒炒肉</title>
+    <link href="/2026/05/05/%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB/%E4%BA%BA%E9%97%B4%E9%A3%9F%E4%BA%8B/%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89/"/>
+    <url>/2026/05/05/%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB/%E4%BA%BA%E9%97%B4%E9%A3%9F%E4%BA%8B/%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89/</url>
+    
+    <content type="html"><![CDATA[<hr><h3 id="🛒-食材清单"><a href="#🛒-食材清单" class="headerlink" title="🛒 食材清单"></a>🛒 食材清单</h3><p><strong>主料</strong>：瘦肉，五花肉&#x2F;肥肉，辣椒；<br><strong>辅料</strong>：大蒜，姜；</p><hr><h3 id="🔪-食材处理"><a href="#🔪-食材处理" class="headerlink" title="🔪 食材处理"></a>🔪 食材处理</h3><ul><li>肥肉和瘦肉分开切（越薄越好），大蒜和姜切成末；</li><li>瘦肉腌制（抓拌均匀）：盐、胡椒粉、生抽、蛋清、淀粉、植物油；</li><li>干煸辣椒：烧热炒锅，不放油，中火，辣椒有虎皮即可。</li></ul><hr><h3 id="🔥-烹饪步骤"><a href="#🔥-烹饪步骤" class="headerlink" title="🔥 烹饪步骤"></a>🔥 烹饪步骤</h3><ol><li>大火爆炒肥肉，煸炒至肥肉吐油，边缘微微卷曲成“灯盏窝”状，表面呈金黄色。如果肥肉出油过多，可以盛出一部分猪油。</li><li>将瘦肉倒入锅中，翻炒均匀，中途加入姜蒜末爆香，瘦肉炒至8分熟；</li><li>小火，加入耗油、生抽、白糖、胡椒粉、老抽，开大火翻炒均匀，然后再加入辣椒翻炒即可出锅；</li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>美好生活</category>
+      
+      <category>人间食事</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>家常菜</tag>
+      
+      <tag>湖南菜</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>docker快速回忆</title>
+    <link href="/2026/04/27/%E7%A7%91%E6%8A%80%E5%88%86%E4%BA%AB/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/Docker%E5%BF%AB%E9%80%9F%E5%9B%9E%E5%BF%86/"/>
+    <url>/2026/04/27/%E7%A7%91%E6%8A%80%E5%88%86%E4%BA%AB/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/Docker%E5%BF%AB%E9%80%9F%E5%9B%9E%E5%BF%86/</url>
+    
+    <content type="html"><![CDATA[<h2 id="一、核心概念"><a href="#一、核心概念" class="headerlink" title="一、核心概念"></a>一、核心概念</h2><ul><li><strong>容器（Container）</strong>：包含项目代码、项目环境和文件系统，可以理解为镜像的解压； </li><li><strong>镜像（Image）</strong>：可以理解为一个项目的源码及环境的压缩包，但不包含操作系统； </li><li><strong>仓库（Registry）</strong>：存储和分发镜像的平台，官方镜像仓库<a href="hub.docker.hub">Docker Hub</a>； </li><li><strong>Dockerfile</strong>：描述如何自动构建镜像，包括基础镜像构建顺序、依赖软件安装和运行指令等；</li></ul><h2 id="二、快速安装"><a href="#二、快速安装" class="headerlink" title="二、快速安装"></a>二、快速安装</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">curl -fsSL https://get.docker.com -o install-docker.sh  <br><span class="hljs-built_in">cat</span> install-docker.sh  <br>sh install-docker.sh --dry-run  <br><span class="hljs-built_in">sudo</span> sh install-docker.sh<br></code></pre></td></tr></table></figure><h2 id="三、基本命令"><a href="#三、基本命令" class="headerlink" title="三、基本命令"></a>三、基本命令</h2><h3 id="镜像命令"><a href="#镜像命令" class="headerlink" title="镜像命令"></a>镜像命令</h3><ol><li>查看所有镜像：<code>sudo docker images</code>;</li><li>删除指定镜像：<code>sudo docker rmi IMAGEID</code>;</li><li>拉取指定镜像：<code>docker pull docker.n8n.io/n8nio/n8n:latest</code><ul><li>docker.n8n.io：n8n私有docker仓库地址；</li><li>n8nio：namespace命名空间，也就是作者名；</li><li>n8n：镜像名；</li><li>latest：版本号；</li></ul></li></ol><h3 id="容器命令"><a href="#容器命令" class="headerlink" title="容器命令"></a>容器命令</h3><ol><li>运行一个容器：<code>docker run n8n</code>；<ul><li><code>-d</code>：后台运行，只显示容器ID；</li><li><code>-p 80:81</code>：端口映射，冒号前80是宿主机的端口，冒号后81是容器内的端口；</li><li><code>-v 宿主机目录:容器内目录</code>：挂载卷，共享文件夹，操作会同步，数据可持久化保存在宿主机；</li><li><code>--name my_n8n</code>：自定义容器名，具有唯一性，可当作容器ID使用；</li></ul></li><li>查看正在运行的容器：<code>docker ps</code>，备注：<code>-a</code>：可以查看停止运行的容器；</li><li>删除容器：<code>sudo docker rm -f 容器ID</code>；备注：<code>-f</code>：强制删除正在运行的容器；</li><li>挂载卷：<code>sudo docker volume create nginx_html</code>；创建了一个名为nginx_html的挂载卷，真实位置可通过命令<code>sudo docker volume inspect nginx_html</code>来查看，还有些其他命令：<ul><li><code>sudo docker volume list</code>：查看所有卷；</li><li><code>sudo docker volume rm nginx_html</code>：删除指定卷；</li><li><code>sudo docker volume prune -a</code>：删除所有未使用的卷；</li></ul></li></ol><h3 id="容器调试"><a href="#容器调试" class="headerlink" title="容器调试"></a>容器调试</h3><p>用AI吧！</p><h3 id="Dockerfile构建"><a href="#Dockerfile构建" class="headerlink" title="Dockerfile构建"></a>Dockerfile构建</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><code class="hljs bash">FROM python:3.13-slim  <br>​  <br>WORKDIR /app  <br>​  <br>COPY . .   <br>​  <br>RUN pip install -r requirements.txt  <br>​  <br>EXPOSE 8000 -t my-app  <br>​  <br>CMD [<span class="hljs-string">&quot;python3&quot;</span>,<span class="hljs-string">&quot;main.py&quot;</span>]<br><br>docker build -t my-app . docker push<br></code></pre></td></tr></table></figure><h3 id="容器网络"><a href="#容器网络" class="headerlink" title="容器网络"></a>容器网络</h3><h3 id="命令示例"><a href="#命令示例" class="headerlink" title="命令示例"></a>命令示例</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 拉取镜像（如官方Nginx镜像）  </span><br>docker pull nginx  <br>​  <br><span class="hljs-comment"># 运行容器（-d 后台运行，-p 映射端口）  </span><br>docker run -d -p 80:80 nginx  <br>​  <br><span class="hljs-comment"># 查看运行中的容器  </span><br>docker ps  <br>​  <br><span class="hljs-comment"># 构建镜像（基于当前目录的Dockerfile）  </span><br>docker build -t my-app .  <br>​  <br><span class="hljs-comment"># 进入容器内部  </span><br>docker <span class="hljs-built_in">exec</span> -it &lt;容器ID&gt; /bin/bash<br></code></pre></td></tr></table></figure><h2 id="四、问题答疑"><a href="#四、问题答疑" class="headerlink" title="四、问题答疑"></a>四、问题答疑</h2><h3 id="访问问题（镜像站配置）"><a href="#访问问题（镜像站配置）" class="headerlink" title="访问问题（镜像站配置）"></a>访问问题（镜像站配置）</h3><ol><li>Linux配置镜像站</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">sudo</span> vi /etc/docker/daemon.json<br></code></pre></td></tr></table></figure><ol start="2"><li>输入下列内容，最后按ESC，输入 :wq! 保存退出。</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs bash">&#123;  <br>    <span class="hljs-string">&quot;registry-mirrors&quot;</span>: [  <br>        <span class="hljs-string">&quot;https://docker.m.daocloud.io&quot;</span>,  <br>        <span class="hljs-string">&quot;https://docker.1panel.live&quot;</span>,  <br>        <span class="hljs-string">&quot;https://hub.rat.dev&quot;</span>  <br>    ]  <br>&#125;<br></code></pre></td></tr></table></figure><ol start="3"><li>重启docker</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-built_in">sudo</span> service docker restart<br></code></pre></td></tr></table></figure><ol start="4"><li>参考链接：<ul><li><a href="https://github.com/tech-shrimp/docker_installer">https://github.com/tech-shrimp/docker_installer</a></li><li><a href="https://www.runoob.com/docker/docker-hello-world.html">https://www.runoob.com/docker/docker-hello-world.html</a></li></ul></li></ol>]]></content>
+    
+    
+    <categories>
+      
+      <category>科技分享</category>
+      
+      <category>建站笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Docker</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hexo博客基础知识</title>
+    <link href="/2026/04/26/%E7%A7%91%E6%8A%80%E5%88%86%E4%BA%AB/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/Hexo%E5%8D%9A%E5%AE%A2%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    <url>/2026/04/26/%E7%A7%91%E6%8A%80%E5%88%86%E4%BA%AB/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/Hexo%E5%8D%9A%E5%AE%A2%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
+    
+    <content type="html"><![CDATA[<h3 id="Hexo常用命令："><a href="#Hexo常用命令：" class="headerlink" title="Hexo常用命令："></a>Hexo常用命令：</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo clean<br>hexo generate<br>hexo server<br>hexo deploy<br></code></pre></td></tr></table></figure><h3 id="Markdown常用格式："><a href="#Markdown常用格式：" class="headerlink" title="Markdown常用格式："></a>Markdown常用格式：</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><code class="hljs markdown"><span class="hljs-section"># 一级标题</span><br><span class="hljs-strong">**加粗**</span><br><span class="hljs-emphasis">*斜体*</span><br>~~删除线~~<br><span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">u</span>&gt;</span></span>下划线<span class="language-xml"><span class="hljs-tag">&lt;/<span class="hljs-name">u</span>&gt;</span></span><br>==高亮==<br><span class="hljs-code">`代码`</span><br><span class="hljs-quote">&gt; 引用</span><br><span class="hljs-bullet">1.</span> 有序列表<br><span class="hljs-bullet">-</span> 无序列表<br><span class="hljs-code">```代码块```</span><br>$$公式块$$<br>![<span class="hljs-string">图片大小</span>](<span class="hljs-link">图片路径</span>)<br></code></pre></td></tr></table></figure><h3 id="Git管理："><a href="#Git管理：" class="headerlink" title="Git管理："></a>Git管理：</h3><ul><li>更新笔记到GitHub</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">git pull origin main <span class="hljs-comment">#同步GitHub</span><br>git add .<br>git commit -m <span class="hljs-string">&quot;笔记更新&quot;</span><br>git push origin main<br></code></pre></td></tr></table></figure><ul><li>其他常用：</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">git <span class="hljs-built_in">clone</span> &lt;repo_url&gt; <span class="hljs-comment">#克隆一个远程仓库到本地。</span><br>git <span class="hljs-built_in">log</span> <span class="hljs-comment">#查看提交历史。</span><br>git status <span class="hljs-comment">#查看文件状态。</span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>科技分享</category>
       
       <category>建站笔记</category>
       
@@ -34,15 +148,15 @@
   
   <entry>
     <title>Hexo博客搭建全流程</title>
-    <link href="/2026/04/25/%E6%8A%80%E6%9C%AF/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A8%E6%B5%81%E7%A8%8B/"/>
-    <url>/2026/04/25/%E6%8A%80%E6%9C%AF/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A8%E6%B5%81%E7%A8%8B/</url>
+    <link href="/2026/04/25/%E7%A7%91%E6%8A%80%E5%88%86%E4%BA%AB/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A8%E6%B5%81%E7%A8%8B/"/>
+    <url>/2026/04/25/%E7%A7%91%E6%8A%80%E5%88%86%E4%BA%AB/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A8%E6%B5%81%E7%A8%8B/</url>
     
     <content type="html"><![CDATA[<h2 id="一、前置准备"><a href="#一、前置准备" class="headerlink" title="一、前置准备"></a>一、前置准备</h2><ol><li><code>git</code> 管理工具（<a href="https://git-scm.com/">下载官网</a>）；</li><li><code>node.js</code>（<a href="https://nodejs.org/en">下载地址</a>），需要<code>npm</code>（[可以换源](npm config set registry <a href="https://registry.npmmirror.com))工具去下载hexo;/">https://registry.npmmirror.com)）工具去下载Hexo；</a></li><li><code>github</code> 账号（<a href="https://github.com/">官网地址</a>）；</li><li><code>Hexo CLI</code>工具：<code>npm install -g hexo-cli</code></li></ol><h2 id="二、GitHub连接"><a href="#二、GitHub连接" class="headerlink" title="二、GitHub连接"></a>二、GitHub连接</h2><ol><li>第一步设置Git账户：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">git config --global user.name &lt;你的用户名&gt;  <br>git config --global user.email &lt;你的邮箱&gt;<br>git config -l <span class="hljs-comment">#查看是否配置成功</span><br></code></pre></td></tr></table></figure><ol start="2"><li>第二步生成ssh密钥：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">ssh-keygen -t rsa -C &lt;你的邮箱&gt; <span class="hljs-comment">#看到要输入什么可以直接回车！</span><br></code></pre></td></tr></table></figure><ol start="3"><li>第二步使用ssh连接：<br>打开文件<code>C:\Users\Administrator\.ssh\id_rsa.pub</code>，复制全部内容到GitHub上的<code>Setting--&gt;SSH and GPG keys</code>中，然后等待邮箱验证即可。</li><li>完成后测试连接：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">ssh -T git@github.com <br></code></pre></td></tr></table></figure><h2 id="三、Hexo启动"><a href="#三、Hexo启动" class="headerlink" title="三、Hexo启动"></a>三、Hexo启动</h2><ol><li>初始化项目：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo init Blogs <span class="hljs-comment">#Blogs可以是其他项目名</span><br><span class="hljs-built_in">cd</span> Blogs  <br>npm install<br></code></pre></td></tr></table></figure><ol start="2"><li>启动项目：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo generate<br>hexo server<br></code></pre></td></tr></table></figure><ol start="3"><li>预览项目：</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs url">http://localhost:4000/<br></code></pre></td></tr></table></figure><ol start="4"><li>项目基础结构介绍：<ul><li><code>_config.yml</code>：Hexo 全局配置文件</li><li><code>source/_posts/</code>：文章存放目录</li><li><code>themes/</code>：主题目录</li><li><code>public/</code>：生成后的静态文件目录</li><li><code>scaffolds/</code>：文章模板目录<br>其中你最常接触的通常是：</li><li>写文章：<code>source/_posts/</code></li><li>改站点信息：<code>_config.yml</code></li><li>改主题样式：<code>themes/</code></li></ul></li></ol><h2 id="四、主题安装"><a href="#四、主题安装" class="headerlink" title="四、主题安装"></a>四、主题安装</h2><ol><li>主题选择与安装：<ul><li><a href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly主题</a></li><li><a href="https://github.com/fluid-dev/hexo-theme-fluid">Fluid主题</a></li></ul></li><li>安装<code>pug</code> 和 <code>stylus</code> 渲染器（好像不是必须的）:</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">npm install hexo-renderer-pug hexo-renderer-stylus --save<br></code></pre></td></tr></table></figure><ol start="3"><li>切换主题，打开<code>_config.yml</code>，找到并修改：</li></ol><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">theme:</span> <span class="hljs-string">butterfly</span><br></code></pre></td></tr></table></figure><ol start="4"><li>复制<code>themes\butterfly\_config.yml</code>到根目录命名为<code>_config.butterfly.yml</code>；</li><li><code>hexo s</code>启动看看：</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs url">http://localhost:4000/<br></code></pre></td></tr></table></figure><h2 id="五、Github部署"><a href="#五、Github部署" class="headerlink" title="五、Github部署"></a>五、Github部署</h2><ol><li>创建新仓库，<strong>命名必须</strong>为<code>username.github.io</code>；</li><li>在<code>myblogs</code>目录下找到 <code>_config.yml</code> 文件，修改如下：</li></ol><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">deploy:</span><br>  <span class="hljs-attr">type:</span> <span class="hljs-string">git</span><br>  <span class="hljs-attr">repo:</span> <span class="hljs-string">git@github.com:LucyEcho/LucyEcho.github.io.git</span><br>  <span class="hljs-attr">branch:</span> <span class="hljs-string">main</span><br></code></pre></td></tr></table></figure><ol start="3"><li>安装部署插件：<code>npm install hexo-deployer-git --save</code></li><li>运行下列命令完成部署：</li></ol><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># 清理 Hexo 缓存</span><br>hexo clean<br><span class="hljs-comment"># 重新生成静态文件</span><br>hexo generate<br>hexo deploy<br></code></pre></td></tr></table></figure><ol start="5"><li>访问<code>https://LucyEcho.github.io</code>看看成果；</li><li>修改域名：<code>LucyEcho.github.io--&gt;Setting--&gt;pages</code>；</li></ol><h2 id="六、PicGO图床系统"><a href="#六、PicGO图床系统" class="headerlink" title="六、PicGO图床系统"></a>六、PicGO图床系统</h2><ol><li>PicGo下载：<a href="https://mirrors.sdu.edu.cn/github-release/1773122425/github-release/Molunerfinn_PicGo/">山东大学的镜像网站</a>；</li><li>连接GitHub：要新建一个仓库（用来存博客图片），最好是<strong>公开</strong>的；再到<code>Setting--&gt;Developer setting--&gt;Tokers(classic)</code>生成一个令牌；</li><li>PicGo配置：</li></ol><figure class="highlight txt"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs txt">设定仓库名：Github用户名/仓库名(LucyEcho/BlogPicture)<br>设定分支名：Github分支(main)<br>设定Token：刚刚在GitHub生成的<br>设定存储路径：img/(index/)<br>设置自定义域名：https://cdn.jsdelivr.net/gh/Github账户名/仓库名@分支名(https://cdn.jsdelivr.net/gh/lucyecho/BlogPicture@main/)<br></code></pre></td></tr></table></figure><ol start="4"><li>对了，PicGo的<strong>时间戳重命名</strong>功能还不错，可以打开；</li></ol>]]></content>
     
     
     <categories>
       
-      <category>技术</category>
+      <category>科技分享</category>
       
       <category>建站笔记</category>
       
